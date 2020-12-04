@@ -4,7 +4,7 @@
   "description": "PWA minimal demo with no features",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": "./index.html",
+  "start_url": "./pwa.html",
   "icons": [  
     {
       "src": "./icon_192.png",
