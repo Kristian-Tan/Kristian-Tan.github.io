@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kristian-tan.pwa",
+    "sha256_cert_fingerprints":
+    ["5E:8E:29:ED:3C:DA:C8:17:AA:06:CB:75:1D:51:D4:FC:4A:6A:BF:9F:DC:6E:4F:09:C5:40:E9:58:38:CE:68:F8"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://kristian-tan.github.io/"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.kristian-tan.pwa",
+    "sha256_cert_fingerprints":
+    ["5E:8E:29:ED:3C:DA:C8:17:AA:06:CB:75:1D:51:D4:FC:4A:6A:BF:9F:DC:6E:4F:09:C5:40:E9:58:38:CE:68:F8"]
+  }
+}]
