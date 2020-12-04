@@ -1,0 +1,4 @@
+#Fri Dec 04 13:32:45 WIB 2020
+base.0=/home/kristian/AndroidStudioProjects/bubblewrap-kristian-tan.github.io/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

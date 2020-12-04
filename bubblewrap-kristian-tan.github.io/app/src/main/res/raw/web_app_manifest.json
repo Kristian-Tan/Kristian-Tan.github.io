@@ -1,0 +1,1 @@
+{"name":"PWA Minimal Demo","short_name":"PWA Min Demo","description":"PWA minimal demo with no features","display":"standalone","orientation":"portrait","start_url":"./pwa.html","icons":[{"src":"./icon_192.png","type":"image/png","sizes":"192x192","purpose":"any maskable"},{"src":"./icon_512.png","type":"image/png","sizes":"512x512"}]}

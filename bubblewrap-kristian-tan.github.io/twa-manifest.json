@@ -1,0 +1,31 @@
+{
+  "packageId": "io.github.kristiantan.pwa",
+  "host": "kristian-tan.github.io",
+  "name": "PWA Minimal Demo",
+  "launcherName": "PWA Min Demo",
+  "display": "standalone",
+  "themeColor": "#FFFFFF",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": false,
+  "startUrl": "/pwa.html",
+  "iconUrl": "https://kristian-tan.github.io/icon_512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "~/.android/keystore.jks",
+    "alias": "LaptopSIManjaro"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://kristian-tan.github.io/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "appVersion": "1"
+}
